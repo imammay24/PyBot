@@ -3,3 +3,5 @@ bahan-bahan Project openAI
 - lib selenium
 - lib openai
 - lib chrome
+- lib opencv
+- lib imagecrop
