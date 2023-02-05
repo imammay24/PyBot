@@ -1,3 +1,4 @@
 pybot ini dibuat dengan membuat python dan library lainnya
 - OpenAI
-- 
+- numpy
+- httpsRequests
