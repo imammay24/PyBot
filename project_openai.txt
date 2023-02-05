@@ -1,0 +1,5 @@
+bahan-bahan Project openAI
+- vps
+- lib selenium
+- lib openai
+- lib chrome
