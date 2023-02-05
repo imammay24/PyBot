@@ -6,3 +6,5 @@ bahan-bahan Project openAI
 - lib opencv
 - lib imagecrop
 - lib tesxt recog
+- lib numpy
+- lib pandas
