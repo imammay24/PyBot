@@ -5,3 +5,4 @@ bahan-bahan Project openAI
 - lib chrome
 - lib opencv
 - lib imagecrop
+- lib tesxt recog
